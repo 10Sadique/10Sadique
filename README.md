@@ -1,6 +1,4 @@
-<h1 align = center >
-  <strong>10Sadique</strong>
-</h1>
+
 
 <div>
 
