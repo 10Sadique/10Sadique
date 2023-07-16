@@ -5,7 +5,7 @@
 <div>
 
 
-<img align="right" src="https://i.imgur.com/KKPSF7P.jpg" width="450" alt="Zenitsu"/>
+<img style="margin-top: 20;" align="right" src="https://i.imgur.com/KKPSF7P.jpg" width="500" alt="Zenitsu"/>
 
 <h2> / about me /</h2>
   
