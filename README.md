@@ -1,8 +1,6 @@
-
+<h1>10Sadique</h1>
 
 <div>
-
-
 <img align="right" src="https://i.imgur.com/KKPSF7P.jpg" width="450" alt="Zenitsu"/>
 
 <h2> / about me /</h2>
