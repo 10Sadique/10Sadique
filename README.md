@@ -2,7 +2,7 @@
 
 <div>
 <br>
-<img align="right" src="https://i.imgur.com/KKPSF7P.jpg" width="470" alt="Zenitsu"/>
+<img align="right" src="https://i.imgur.com/BDZsYBf.png" width="470" alt="Zenitsu"/>
 
 <h2> / about me /</h2>
   
